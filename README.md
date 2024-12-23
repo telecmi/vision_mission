@@ -13,7 +13,7 @@ We’re continually expanding with products like **PIOPIY** for AI call handling
 
 ### Key Highlights
 - **Global Leadership**  
-  We aim to become the go-to solution for cloud telephony and AI-driven communication in India,India, the Middle East (especially the UAE and Saudi Arabia), the US, the UK, Singapore, and beyond.
+  We aim to become the go-to solution for cloud telephony and AI-driven communication in India, the Middle East (especially the UAE and Saudi Arabia), the US, the UK, Singapore, and beyond.
 - **AI-Centric Approach**  
   By integrating real-time transcription, speech analytics, and machine learning, we make interactions smarter and more personalized.
 - **Omni-Channel Connectivity**  
